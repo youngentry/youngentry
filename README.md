@@ -1,9 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=youngentry&fontSize=90)
 
+<span> <img img style="height:197px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngentry&layout=compact&theme=nord&hide_border=true"/> </span>
 ![youngentry's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngentry&show_icons=true&theme=radical)
-<span>
-  <img img style="height:197px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngentry&layout=compact&theme=nord&hide_border=true"/>
-</span>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=opapqp)](https://solved.ac/opapqp)
 
