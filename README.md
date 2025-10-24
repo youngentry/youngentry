@@ -30,10 +30,10 @@
 ![Emotion](https://img.shields.io/badge/Emotion-D36AC2.svg?style=for-the-badge&logoColor=white)
 
 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-49443E.svg?style=for-the-badge&logoColor=white)
-![Recoil](https://img.shields.io/badge/Recoil-3C7CE6.svg?style=for-the-badge&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Recoil](https://img.shields.io/badge/Recoil-3C7CE6.svg?style=for-the-badge&logoColor=white)
 
 
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
