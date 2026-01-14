@@ -25,8 +25,8 @@
 ![STYLED-COMPONENTS](https://img.shields.io/badge/styled--components-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white)
 
 
-![Zustand](https://img.shields.io/badge/Zustand-49443E.svg?style=for-the-badge&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-49443E.svg?style=for-the-badge&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Recoil](https://img.shields.io/badge/Recoil-3C7CE6.svg?style=for-the-badge&logoColor=white)
 
