@@ -69,9 +69,7 @@
 
 ### AI Copilot
 
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
-
+CURSOR GENIMI 만 씁니다.
 --- 
 
 #### 현재 가장 많이 사용하는 기술
