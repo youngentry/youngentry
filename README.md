@@ -69,18 +69,14 @@
 
 ### AI Copilot
 
-CURSOR GENIMI 만 씁니다.
+코딩은 CURSOR Claude AI사용, 이외에는 GPT, GENIMI를 상황에 따라 사용합니다.
 --- 
 
 #### 현재 가장 많이 사용하는 기술
 
-- REACT 19 / Next.js 15 / Tailwind / ShadCN / Zustand / ReactQuery / TypeScript
+- TypeScript / Next.js 15 / ReactQuery / Tailwind / Zustand 
 
-#### 현재 가장 집중하고 있는 포인트 => ✅생산성 향상
+#### 현재 가장 집중하고 있는 포인트 => ✅AI가 의도대로 동작하도록 아키텍처 및 프롬프트 설계
 
-- Cursor + Figma + API Docs => 프로젝트 자동화 + AI 코드 퀄리티 향상
+- Cursor + Figma + Swagger => 프로젝트 생성 자동화를 위한 아키텍처 설계 + AI 코드 퀄리티 향상을 위한 프롬프트 설계
 
-#### 2025년 끝나기 전 가장 많이 도전할 기술 => ✅기술적 협업 도입
-
-- Cursor + Figma + API Docs + TDD + Storybook => 협업 및 Spec 문서화 자동화
-- Monorepo + NPM 라이브러리 => Util, Component, Library 중앙화 및 문서화
